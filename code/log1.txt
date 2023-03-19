@@ -1,0 +1,6 @@
+Read 50 bytes from input file in 1st process
+Read 43 bytes from input file in 1st process
+Read 50 bytes from channel fd2[0] in 1st process
+Read 50 bytes from channel fd2[0] in 1st process
+Read 50 bytes from channel fd2[0] in 1st process
+Read 13 bytes from channel fd2[0] in 1st process

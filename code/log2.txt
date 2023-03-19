@@ -1,0 +1,2 @@
+Wrote 84 bytes to channel fd2[1] in 2nd process
+Wrote 79 bytes to channel fd2[1] in 2nd process
